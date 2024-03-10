@@ -11,8 +11,7 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dhgudehd98)](https://solved.ac/dhgudehd98)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dhgudehd98&theme=cold)
-<img src="http://mazandi.herokuapp.com/api?handle=dhgudehd98&theme=cold"/>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhgudehd98 )](https://github.com/anuraghazra/github-readme-stats)
 
