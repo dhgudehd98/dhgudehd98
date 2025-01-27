@@ -8,6 +8,5 @@
 <br>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=dhgudehd98&show_icons=true&theme=transparent&bg_color=000000&text_color=FFFFFF" width="400" height="200" />   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhgudehd98&theme=transparent&bg_color=000000&text_color=FFFFFF" width="500" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=dhgudehd98&show_icons=true&theme=transparent&bg_color=000000&text_color=FFFFFF" width="400" height="200" />   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhgudehd98&theme=transparent&bg_color=000000&text_color=FFFFFF" width="500" height="200" />
 </div>
