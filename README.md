@@ -6,14 +6,7 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dhgudehd98&show_icons=true&theme=transparent&bg_color=000000&text_color=FFFFFF" width="400" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhgudehd98&theme=transparent&bg_color=000000&text_color=FFFFFF" width="500" height="200" />
-    </td>
-  </tr>
-</table>
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhgudehd98&show_icons=true&theme=transparent&bg_color=000000&text_color=FFFFFF" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhgudehd98&theme=transparent&bg_color=000000&text_color=FFFFFF" width="500" height="200" />
+</div>
